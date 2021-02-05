@@ -1,4 +1,4 @@
-#Responsiveness
+# #Responsiveness
 
 # Sample webpage based on Chapter 16 of the book HTML and CSS by Jon Duckett.
 
